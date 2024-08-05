@@ -4,7 +4,10 @@ Yet another way to stack pi-like or other SBCs (single board computers) on top o
 
 **For a standard 40pin raspberry pi  A/B or similar board you probably want ``full.stl``**
 
-Also at: https://www.thingiverse.com/thing:6721264/files
+Also at:
+
+* [printables](https://www.printables.com/model/965132-pi-like-stack/files)
+* [thingiverse](https://www.thingiverse.com/thing:6721264/files)
 
 ![](./preview/preview.gif)
 
