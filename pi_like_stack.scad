@@ -16,7 +16,7 @@
 
 $fn=15;
 
-colour_a = [0.999, 0.999, 0.999];
+colour_a = [0.3, 0.3, 1.0];
 colour_b = [0.42, 0.81, 0.39];
 
 // Toggle board visiblity
