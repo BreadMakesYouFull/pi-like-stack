@@ -40,4 +40,4 @@ make
 
 [openscad file & project - MIT](./licenses/pi_like_stack_scad_MIT.txt)
 
-[STL files - CC BY-SA 4.0](./licenses/stls_CC_BY-SA_4.0.txt)
+[STL files - CC BY-SA 4.0](./licenses/stls.txt)
